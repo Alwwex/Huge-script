@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Alwwex/gxgbd/main/Protected.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Alwwex/gxgbd/main/SCRIPTZ.lua"))()
